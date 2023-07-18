@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimscapeMultibodyImportXML xmlns="urn:mathworks:SimscapeMultibody:import"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            version="2.0">
+   <Created by="alvaro vilasuso" from="Onshape" on="07/12/22||09:57:49"
+            using="Simscape Multibody Exporter"/>
+   <ModelUnits length="millimeter" mass="gram"/>
+   <DataUnits length="meter" mass="kilogram"/>
+   <RootAssembly name="Robot 3" uid="4e156921b31cc3b258956452"
+                 version="w-c46e06b8e211593307e5cab0">
+      <InstanceTree>
+         <Instance entityUid="RFBD*:*c4963eff51018d95b0730528" name="Brazo 2 &lt;1&gt;"
+                   uid="MPMCiFxeFYGyreoAE">
+            <Transform>
+               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 -0.000000000 -0.000000000 1.000000000 </Rotation>
+               <Translation>0.048341388 -0.024377767 0.052658999 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JID*:*dd74eaadb1d0d4c2b3a155f8" grounded="true"
+                   name="Base Final &lt;1&gt;"
+                   uid="MNU1X2OtaoDYaUg8q">
+            <Transform>
+               <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 </Rotation>
+               <Translation>0.048341388 -0.024377767 0.052658999 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JFD*:*484c3551861c5465beb7d80d" name="Hombro Final &lt;1&gt;"
+                   uid="MiiuTK0acV9OdyOwG">
+            <Transform>
+               <Rotation>1.000000000 -0.000000000 -0.000000000 -0.000000000 1.000000000 0.000000000 0.000000000 -0.000000000 1.000000000 </Rotation>
+               <Translation>0.048341388 -0.024377767 0.052658999 </Translation>
+            </Transform>
+         </Instance>
+         <Instance entityUid="JMD*:*c4963eff51018d95b0730528" name="Brazo &lt;1&gt;"
+                   uid="Mla/0HTlCParmIk7H">
+            <Transform>
+               <Rotation>1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 -0.000000000 1.000000000 </Rotation>
+               <Translation>0.048341388 -0.024377767 0.052658999 </Translation>
+            </Transform>
+         </Instance>
+      </InstanceTree>
+      <Constraints/>
+      <Joints>
+         <Revolute name="Revolute1">
+            <BaseFrame>
+               <InstancePath>
+                  <Uid>MiiuTK0acV9OdyOwG</Uid>
+               </InstancePath>
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.000000000 -0.000000000 0.000000000 </Translation>
+               </Transform>
+            </BaseFrame>
+            <FollowerFrame>
+               <InstancePath>
+                  <Uid>MNU1X2OtaoDYaUg8q</Uid>
+               </InstancePath>
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 </Rotation>
+                  <Translation>0.000000000 0.000000000 0.000000000 </Translation>
+               </Transform>
+            </FollowerFrame>
+         </Revolute>
+         <Revolute name="Revolute2">
+            <BaseFrame>
+               <InstancePath>
+                  <Uid>Mla/0HTlCParmIk7H</Uid>
+               </InstancePath>
+               <Transform>
+                  <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -0.000000000 </Rotation>
+                  <Translation>0.000000000 0.000000000 0.040000000 </Translation>
+               </Transform>
+            </BaseFrame>
+            <FollowerFrame>
+               <InstancePath>
+                  <Uid>MiiuTK0acV9OdyOwG</Uid>
+               </InstancePath>
+               <Transform>
+                  <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 </Rotation>
+                  <Translation>0.000000000 0.000000000 0.040000000 </Translation>
+               </Transform>
+            </FollowerFrame>
+         </Revolute>
+         <Revolute name="Revolute3">
+            <BaseFrame>
+               <InstancePath>
+                  <Uid>MPMCiFxeFYGyreoAE</Uid>
+               </InstancePath>
+               <Transform>
+                  <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 -0.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
+                  <Translation>0.020000000 0.000000000 0.160000000 </Translation>
+               </Transform>
+            </BaseFrame>
+            <FollowerFrame>
+               <InstancePath>
+                  <Uid>Mla/0HTlCParmIk7H</Uid>
+               </InstancePath>
+               <Transform>
+                  <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
+                  <Translation>0.020000000 0.000000000 0.160000000 </Translation>
+               </Transform>
+            </FollowerFrame>
+         </Revolute>
+      </Joints>
+   </RootAssembly>
+   <Assemblies/>
+   <Parts>
+      <Part name="Hombro Final" uid="JFD*:*484c3551861c5465beb7d80d">
+         <ModelUnits length="millimeter" mass="gram"/>
+         <MassProperties>
+            <Mass>0.114131495</Mass>
+            <CenterOfMass>-0.000093964 -0.000000004 0.017151825 </CenterOfMass>
+            <Inertia>0.000026474 0.000026338 0.000007889 0.000000000 0.000000245 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Hombro Final.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Brazo" uid="JMD*:*c4963eff51018d95b0730528">
+         <ModelUnits length="millimeter" mass="gram"/>
+         <MassProperties>
+            <Mass>0.209999486</Mass>
+            <CenterOfMass>0.018646598 -0.000000010 0.095299457 </CenterOfMass>
+            <Inertia>0.000362685 0.000365825 0.000009863 0.000000000 -0.000016058 -0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Brazo.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Brazo 2" uid="RFBD*:*c4963eff51018d95b0730528">
+         <ModelUnits length="millimeter" mass="gram"/>
+         <MassProperties>
+            <Mass>0.21543807</Mass>
+            <CenterOfMass>0.001369255 -0.000000007 0.206372725 </CenterOfMass>
+            <Inertia>0.000340786 0.000343953 0.000010164 -0.000000000 0.000013629 -0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Brazo 21.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="Base Final" uid="JID*:*dd74eaadb1d0d4c2b3a155f8">
+         <ModelUnits length="millimeter" mass="gram"/>
+         <MassProperties>
+            <Mass>0.221690025</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.005269541 </CenterOfMass>
+            <Inertia>0.000054105 0.000054105 0.000102887 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="Base Final.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+   </Parts>
+</SimscapeMultibodyImportXML>
