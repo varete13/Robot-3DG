@@ -1,0 +1,5550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="209.973mm"
+   height="297.011mm"
+   viewBox="0 0 2480 3508"
+   version="1.2"
+   id="svg2122"
+   sodipodi:docname="q2q3 Robot 3.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2124"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0380832"
+     inkscape:cx="387.73384"
+     inkscape:cy="358.83442"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2120" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3303"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3299"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     fill="none"
+     stroke="black"
+     stroke-width="1"
+     fill-rule="evenodd"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     id="g2120">
+    <g
+       id="g5290"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1005.68,961.245 998.212,958.339 990.643,955.707 982.984,953.352 975.243,951.278 967.432,949.487 959.561,947.982 951.641,946.765 "
+         id="polyline1992"
+         transform="matrix(1.9183095,0,0,1.9183095,-929.15358,-747.69748)" />
+      <g
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+         font-family="Arial"
+         font-size="12px"
+         font-weight="400"
+         font-style="normal"
+         id="g2000">
+        <path
+           vector-effect="none"
+           fill-rule="evenodd"
+           d="m 1007.85,956.828 24.33,17.43 -28.67,-8.597 4.34,-8.833"
+           id="path1998" />
+      </g>
+      <g
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+         font-family="Arial"
+         font-size="12px"
+         font-weight="400"
+         font-style="normal"
+         id="g2006">
+        <path
+           vector-effect="none"
+           fill-rule="evenodd"
+           d="m 951.311,951.674 -29.127,-6.89 29.787,-2.929 -0.66,9.819"
+           id="path2004" />
+      </g>
+    </g>
+    <g
+       id="g5290-6"
+       transform="matrix(0.40925652,0.16197239,-0.16197239,0.40925652,938.46202,448.2917)"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1005.68,961.245 998.212,958.339 990.643,955.707 982.984,953.352 975.243,951.278 967.432,949.487 959.561,947.982 951.641,946.765 "
+         id="polyline1992-4"
+         transform="matrix(1.9183095,0,0,1.9183095,-929.15358,-747.69748)" />
+      <g
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+         font-family="Arial"
+         font-size="12px"
+         font-weight="400"
+         font-style="normal"
+         id="g2000-5">
+        <path
+           vector-effect="none"
+           fill-rule="evenodd"
+           d="m 1007.85,956.828 24.33,17.43 -28.67,-8.597 4.34,-8.833"
+           id="path1998-8" />
+      </g>
+      <g
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+         font-family="Arial"
+         font-size="12px"
+         font-weight="400"
+         font-style="normal"
+         id="g2006-6">
+        <path
+           vector-effect="none"
+           fill-rule="evenodd"
+           d="m 951.311,951.674 -29.127,-6.89 29.787,-2.929 -0.66,9.819"
+           id="path2004-8" />
+      </g>
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g8" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g10" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g24"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="900.041,1185.88 900.041,1201.29 "
+         id="polyline12" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="944.326,1201.29 944.326,1185.9 "
+         id="polyline14" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="966.469,1268.11 966.469,1267.24 "
+         id="polyline16" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="877.898,1267.24 877.898,1268.11 "
+         id="polyline18" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="957.216,1257.17 946.338,1216.57 "
+         id="polyline20" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="898.029,1216.57 887.151,1257.17 "
+         id="polyline22" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g30"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="908.329,1201.29 906.724,1199.41 905.166,1197.41 903.703,1195.19 902.39,1192.73 901.308,1190.26 900.88,1189.12 900.54,1188.08 900.294,1187.19 900.134,1186.49 900.056,1186.03 900.041,1185.81 "
+         id="polyline26" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="944.326,1185.78 944.221,1186.45 944.123,1187.01 944.029,1187.41 943.961,1187.64 943.862,1187.95 943.729,1188.36 943.56,1188.86 943.122,1190.06 942.553,1191.46 941.859,1192.97 941.048,1194.49 940.159,1195.96 939.248,1197.33 938.373,1198.55 937.59,1199.56 936.954,1200.32 936.46,1200.86 936.038,1201.29 "
+         id="polyline28" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g34"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="908.329,1201.29 908.49,1201.39 908.713,1201.52 909.034,1201.7 909.92,1202.19 911.06,1202.78 913.743,1204.04 915.108,1204.58 916.38,1204.98 917.535,1205.26 918.566,1205.44 919.462,1205.56 920.216,1205.62 921.351,1205.7 921.915,1205.71 922.63,1205.69 923.524,1205.64 924.556,1205.54 926.866,1205.19 929.223,1204.6 931.404,1203.79 932.393,1203.35 933.296,1202.9 934.102,1202.47 934.791,1202.07 935.339,1201.74 935.717,1201.5 935.916,1201.37 936.038,1201.29 "
+         id="polyline32" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g38"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="906.957,1184.26 909.421,1186.31 911.812,1188.28 914.057,1190.09 916.103,1191.68 917.079,1192.35 918.053,1192.92 919.05,1193.38 920.085,1193.72 921.07,1193.93 921.83,1194.05 922.069,1194.07 922.186,1194.08 922.255,1194.08 922.418,1194.07 922.989,1194.02 923.721,1193.9 924.479,1193.69 925.248,1193.39 926.806,1192.59 928.443,1191.51 929.339,1190.85 930.313,1190.1 931.368,1189.26 932.494,1188.35 934.896,1186.37 937.41,1184.26 "
+         id="polyline36" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g46"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="940.716,1188.49 938.02,1190.69 935.425,1192.74 934.197,1193.66 933.031,1194.49 931.932,1195.21 930.874,1195.84 928.769,1196.86 926.561,1197.61 925.502,1197.88 924.55,1198.08 923.747,1198.21 923.013,1198.26 922.223,1198.27 921.279,1198.22 920.198,1198.12 919.02,1197.93 917.785,1197.64 916.527,1197.22 915.254,1196.7 913.971,1196.06 912.681,1195.33 911.389,1194.52 908.806,1192.68 906.228,1190.64 903.651,1188.49 "
+         id="polyline40" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="940.716,1188.49 943.045,1186.47 945.155,1184.22 947.024,1181.77 948.632,1179.14 949.962,1176.35 951.001,1173.45 951.737,1170.46 952.163,1167.4 952.274,1164.32 952.068,1161.24 951.549,1158.2 "
+         id="polyline42" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="913.197,1136.06 910.276,1137.14 907.482,1138.52 904.847,1140.18 902.396,1142.11 900.158,1144.27 898.156,1146.66 896.412,1149.24 894.944,1151.99 893.767,1154.87 892.895,1157.86 892.337,1160.93 892.099,1164.04 892.183,1167.15 892.589,1170.24 893.312,1173.27 894.344,1176.21 895.675,1179.02 897.29,1181.69 899.171,1184.17 901.299,1186.45 903.651,1188.49 "
+         id="polyline44" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g50"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="900.041,1201.29 900.179,1201.29 900.592,1201.29 901.276,1201.29 902.22,1201.29 903.414,1201.29 904.843,1201.29 906.488,1201.29 908.329,1201.29 "
+         id="polyline48" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g56"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="937.41,1184.26 939.379,1182.55 941.156,1180.64 942.722,1178.55 944.059,1176.31 945.152,1173.93 945.989,1171.46 946.561,1168.92 946.861,1166.32 "
+         id="polyline52" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="908.509,1144.18 906.305,1145.83 904.298,1147.71 902.513,1149.8 900.97,1152.08 899.691,1154.51 898.689,1157.07 897.979,1159.73 897.568,1162.45 897.461,1165.2 897.661,1167.94 898.164,1170.65 898.964,1173.28 900.052,1175.8 901.413,1178.19 903.032,1180.42 904.887,1182.45 906.957,1184.26 "
+         id="polyline54" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g62"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="906.957,1184.26 906.159,1185.28 905.416,1186.23 904.767,1187.06 904.244,1187.73 903.873,1188.21 903.672,1188.46 903.651,1188.49 "
+         id="polyline58" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="887.151,1257.17 887.319,1257.17 887.824,1257.17 888.659,1257.17 889.817,1257.17 891.287,1257.17 893.055,1257.17 895.103,1257.17 897.412,1257.17 899.959,1257.17 902.72,1257.17 905.669,1257.17 908.777,1257.17 912.014,1257.17 915.349,1257.17 918.75,1257.17 922.184,1257.17 925.617,1257.17 929.018,1257.17 932.353,1257.17 935.59,1257.17 938.698,1257.17 941.647,1257.17 944.408,1257.17 946.956,1257.17 949.264,1257.17 951.312,1257.17 953.08,1257.17 954.55,1257.17 955.708,1257.17 956.543,1257.17 957.048,1257.17 957.216,1257.17 "
+         id="polyline60" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g68"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="966.469,1267.24 964.612,1266.42 962.885,1265.36 961.319,1264.06 959.946,1262.57 958.791,1260.9 957.875,1259.09 957.216,1257.17 "
+         id="polyline64" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="887.151,1257.17 886.492,1259.09 885.576,1260.9 884.421,1262.57 883.048,1264.06 881.482,1265.36 879.755,1266.42 877.898,1267.24 "
+         id="polyline66" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g74"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="940.716,1188.49 940.695,1188.46 940.495,1188.21 940.123,1187.73 939.6,1187.06 938.951,1186.23 938.208,1185.28 937.41,1184.26 "
+         id="polyline70" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="936.038,1201.29 938.127,1201.29 939.955,1201.29 941.494,1201.29 942.718,1201.29 943.607,1201.29 944.146,1201.29 944.326,1201.29 "
+         id="polyline72" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g82"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="966.469,1267.24 966.301,1267.24 965.796,1267.24 964.96,1267.24 963.798,1267.24 962.32,1267.24 960.536,1267.24 958.46,1267.24 956.108,1267.24 953.498,1267.24 950.65,1267.24 947.585,1267.24 944.326,1267.24 940.899,1267.24 937.33,1267.24 933.646,1267.24 929.874,1267.24 926.043,1267.24 922.184,1267.24 918.324,1267.24 914.493,1267.24 910.722,1267.24 907.037,1267.24 903.468,1267.24 900.041,1267.24 896.782,1267.24 893.717,1267.24 890.869,1267.24 888.259,1267.24 885.907,1267.24 883.831,1267.24 882.047,1267.24 880.569,1267.24 879.407,1267.24 878.571,1267.24 878.066,1267.24 877.898,1267.24 "
+         id="polyline76" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="900.041,1201.29 899.914,1205.15 899.536,1209 898.906,1212.81 898.029,1216.57 "
+         id="polyline78" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="946.338,1216.57 945.461,1212.81 944.832,1209 944.453,1205.15 944.326,1201.29 "
+         id="polyline80" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g86"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="946.338,1216.57 946.175,1216.57 945.687,1216.57 944.882,1216.57 943.769,1216.57 942.365,1216.57 940.687,1216.57 938.76,1216.57 936.608,1216.57 934.261,1216.57 931.751,1216.57 929.111,1216.57 926.378,1216.57 923.588,1216.57 920.779,1216.57 917.989,1216.57 915.256,1216.57 912.616,1216.57 910.106,1216.57 907.759,1216.57 905.607,1216.57 903.68,1216.57 902.002,1216.57 900.598,1216.57 899.485,1216.57 898.68,1216.57 898.192,1216.57 898.029,1216.57 "
+         id="polyline84" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g94"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="906.957,1184.26 909.199,1185.82 911.601,1187.13 914.131,1188.16 916.76,1188.9 919.455,1189.35 922.184,1189.51 924.912,1189.35 927.607,1188.9 930.236,1188.16 932.766,1187.13 935.168,1185.82 937.41,1184.26 "
+         id="polyline88" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="941.487,1175.63 1105.64,891.307 "
+         id="polyline90" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1067.28,869.176 903.262,1153.27 "
+         id="polyline92" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g102"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1112.82,884.28 1110.25,886.186 "
+         id="polyline96" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1110.25,886.186 1108.63,887.119 "
+         id="polyline98" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1069.42,864.481 1069.41,862.783 "
+         id="polyline100" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g114"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1105.72,891.169 1106.79,889.49 1107.98,887.896 "
+         id="polyline104" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1107.98,887.896 1108.44,887.369 1108.83,886.915 1109.11,886.608 1109.24,886.473 "
+         id="polyline106" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1109.24,886.473 1109.66,886.062 1109.95,885.801 "
+         id="polyline108" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1069.9,862.672 1069.89,862.748 1069.85,862.94 1069.7,863.541 1069.28,864.885 "
+         id="polyline110" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1069.28,864.885 1068.51,866.795 1067.59,868.638 "
+         id="polyline112" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g124"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1079.26,858.712 1078.57,870.346 1078.25,875.958 1078.11,878.665 1078,881.232 1077.95,883.584 1077.96,884.654 1078,885.643 1078.07,886.539 1078.17,887.334 1078.3,888.028 1078.46,888.631 1078.82,889.601 1079.22,890.323 1079.69,890.865 1080.25,891.261 1080.89,891.486 1081.58,891.564 1082.33,891.52 1083.25,891.341 1084.37,891 1085.67,890.462 1087.14,889.715 1088.8,888.765 1090.68,887.62 1092.78,886.287 1095.1,884.785 1097.6,883.142 1100.25,881.385 1103.01,879.543 1108.71,875.717 "
+         id="polyline116" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1111.7,881.373 1105.38,885.252 1102.32,887.089 1099.38,888.802 1096.6,890.35 1094.01,891.692 1091.66,892.798 1089.52,893.667 1087.59,894.302 1085.87,894.704 1084.35,894.895 1083.04,894.923 1081.93,894.829 1080.93,894.623 1079.92,894.298 1078.93,893.842 1077.98,893.254 1077.13,892.565 1076.35,891.762 1075.6,890.781 1074.87,889.536 1074.52,888.783 1074.2,887.925 1073.92,886.951 1073.67,885.865 1073.45,884.68 1073.25,883.407 1072.96,880.648 1072.76,877.69 1072.6,871.532 1072.68,865.267 1072.86,858.952 "
+         id="polyline118" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1105.64,891.305 1105.83,890.923 1105.82,890.825 1105.73,890.822 1105.39,890.997 1105,891.292 1104.54,891.686 1104,892.177 1103.32,892.78 1102.46,893.51 1101.39,894.384 1100.09,895.404 1098.58,896.535 1096.93,897.734 1093.35,900.166 1091.53,901.315 1089.74,902.36 1088.04,903.261 1086.47,903.98 1085.03,904.521 1083.72,904.913 1082.5,905.184 1081.38,905.361 1079.32,905.538 1077.41,905.487 1076.46,905.351 1075.5,905.129 1073.62,904.46 1072.75,904.029 1071.96,903.542 1070.56,902.388 1069.34,900.959 1068.23,899.251 1067.28,897.285 1066.87,896.194 1066.5,895.007 1066.2,893.707 1065.95,892.276 1065.78,890.698 1065.67,888.986 1065.63,885.309 1065.81,881.548 1065.96,879.731 1066.16,878.007 1066.38,876.409 1066.62,874.951 1066.86,873.645 1067.09,872.5 1067.28,871.529 1067.43,870.738 1067.54,870.1 1067.64,869.563 1067.71,869.103 1067.7,868.935 1067.64,868.832 1067.54,868.815 1067.43,868.895 1067.25,869.239 "
+         id="polyline120" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1069.41,862.783 1069.41,862.735 1069.43,862.561 1069.47,862.256 1069.52,861.844 1069.67,860.79 1069.87,859.58 1070.09,858.397 1070.33,857.421 1070.58,856.741 1070.88,856.33 1071.23,856.155 1071.63,856.203 1071.98,856.497 1072.26,857.009 1072.61,858.168 1072.86,858.952 "
+         id="polyline122" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g130"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="944.129,1170.45 944.089,1170.56 943.957,1170.87 943.741,1171.37 943.487,1171.95 943.237,1172.5 943.038,1172.94 942.911,1173.19 942.825,1173.34 "
+         id="polyline126" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="942.825,1173.34 942.337,1174.21 941.917,1174.95 941.608,1175.47 941.378,1175.86 "
+         id="polyline128" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g134"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1111.7,881.373 1112.74,881.114 1113.72,880.95 1114.55,880.977 1114.83,881.095 1114.98,881.301 1114.97,881.596 1114.82,881.951 1114.3,882.728 1113.6,883.505 1112.82,884.28 "
+         id="polyline132" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g138"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="941.378,1175.86 939.902,1178.09 938.168,1180.13 936.201,1181.95 934.029,1183.51 931.685,1184.8 929.202,1185.8 926.617,1186.5 923.967,1186.87 921.291,1186.93 918.628,1186.66 916.017,1186.07 913.496,1185.17 911.102,1183.97 908.869,1182.5 906.83,1180.76 905.015,1178.8 903.451,1176.63 902.159,1174.28 901.16,1171.8 900.467,1169.21 900.091,1166.56 900.038,1163.89 900.307,1161.22 900.895,1158.61 901.793,1156.09 902.989,1153.7 "
+         id="polyline136" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g142"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         cx="903.008"
+         cy="1153.71"
+         r="2.5"
+         id="circle140" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g146"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1108.63,887.119 1111.64,885.984 1114.5,884.54 1117.2,882.803 1119.71,880.794 1121.99,878.533 1124.02,876.045 1125.78,873.359 1127.25,870.502 1128.41,867.508 1129.25,864.409 1129.76,861.239 1129.93,858.033 1129.77,854.826 1129.28,851.653 1128.45,848.55 1127.31,845.55 1125.85,842.687 1124.11,839.992 1122.09,837.495 1119.82,835.223 1117.32,833.201 1114.63,831.452 1111.77,829.995 1108.77,828.845 1105.67,828.016 1102.5,827.516 1099.29,827.351 1096.08,827.524 1092.91,828.031 1089.81,828.868 1086.82,830.024 1083.96,831.489 1081.27,833.244 1078.78,835.272 1076.52,837.549 1074.5,840.051 1072.76,842.751 1071.32,845.617 1070.18,848.619 1069.36,851.725 1068.87,854.898 1068.72,858.106 1068.9,861.312 1069.42,864.481 "
+         id="polyline144" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g154"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="941.359,1175.85 941.198,1175.76 940.764,1175.51 940.062,1175.1 939.103,1174.55 937.9,1173.85 936.47,1173.03 934.835,1172.08 933.018,1171.03 931.044,1169.9 928.943,1168.68 926.745,1167.41 924.481,1166.11 922.184,1164.78 919.886,1163.45 917.622,1162.15 915.424,1160.88 913.323,1159.66 911.349,1158.52 909.532,1157.48 907.897,1156.53 906.467,1155.71 905.264,1155.01 904.305,1154.46 903.603,1154.05 903.169,1153.8 903.008,1153.71 "
+         id="polyline148" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="903.008,1153.71 901.814,1156.1 900.916,1158.62 900.328,1161.23 900.06,1163.89 900.114,1166.56 900.489,1169.21 901.181,1171.79 902.179,1174.27 903.469,1176.61 905.032,1178.78 906.845,1180.75 908.882,1182.48 911.113,1183.96 913.505,1185.15 916.023,1186.05 918.632,1186.63 921.292,1186.9 923.965,1186.85 926.612,1186.47 929.195,1185.78 931.676,1184.78 934.018,1183.49 936.187,1181.93 938.152,1180.12 939.885,1178.08 941.359,1175.85 "
+         id="polyline150" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1072.86,858.952 1072.92,855.982 1073.31,853.038 1074.02,850.156 1075.05,847.371 1076.39,844.72 1078.02,842.235 1079.91,839.949 1082.05,837.888 1084.41,836.08 1086.95,834.547 1089.65,833.309 1092.47,832.381 1095.38,831.774 1098.34,831.497 1101.3,831.552 1104.25,831.94 1107.13,832.655 1109.92,833.688 1112.57,835.026 1115.05,836.653 1117.34,838.547 1119.4,840.686 1121.21,843.042 1122.74,845.586 1123.98,848.285 1124.91,851.106 1125.51,854.013 1125.79,856.97 1125.73,859.939 1125.35,862.884 1124.63,865.766 1123.6,868.55 1122.26,871.201 1120.63,873.686 1118.74,875.972 1116.6,878.033 1114.24,879.84 1111.7,881.373 "
+         id="polyline152" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g160"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="908.509,1144.18 906.214,1145.9 904.135,1147.88 902.298,1150.08 900.73,1152.49 899.45,1155.06 898.477,1157.75 897.822,1160.55 897.496,1163.4 897.503,1166.27 897.841,1169.12 898.508,1171.91 899.493,1174.6 900.784,1177.17 902.363,1179.56 904.209,1181.76 906.297,1183.73 908.599,1185.44 911.084,1186.87 913.718,1188.01 916.467,1188.84 919.292,1189.34 922.156,1189.51 925.021,1189.34 927.848,1188.85 930.598,1188.03 933.235,1186.9 935.723,1185.47 938.029,1183.76 940.121,1181.8 941.972,1179.61 943.556,1177.21 944.853,1174.65 945.844,1171.96 946.516,1169.17 946.861,1166.32 "
+         id="polyline156" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1108.71,875.717 1110.92,874.36 1112.94,872.73 1114.73,870.853 1116.26,868.761 1117.51,866.49 1118.46,864.076 1119.09,861.56 1119.38,858.984 1119.35,856.391 1118.98,853.824 1118.28,851.326 1117.27,848.939 1115.96,846.702 1114.37,844.653 1112.53,842.826 1110.47,841.25 1108.22,839.954 1105.83,838.957 1103.33,838.278 1100.76,837.926 1098.17,837.909 1095.59,838.225 1093.08,838.871 1090.67,839.835 1088.41,841.101 1086.33,842.648 1084.46,844.45 1082.85,846.478 1081.51,848.697 1080.46,851.07 1079.73,853.558 1079.33,856.12 1079.26,858.712 "
+         id="polyline158" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g164"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         cx="941.37799"
+         cy="1175.86"
+         r="2.5"
+         id="circle162" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g168"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1079.26,858.712 1079.51,861.232 1080.08,863.701 1080.96,866.078 1082.12,868.326 1083.57,870.409 1085.26,872.294 1087.17,873.95 1089.28,875.353 1091.55,876.479 1093.95,877.31 1096.43,877.833 1098.95,878.04 1101.48,877.928 1103.98,877.498 1106.4,876.757 1108.71,875.717 "
+         id="polyline166" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g174"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1079.26,858.712 1077.94,858.761 1076.65,858.809 1075.48,858.853 1074.47,858.891 1073.67,858.921 1073.13,858.942 1072.86,858.952 "
+         id="polyline170" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1111.7,881.373 1111.58,881.141 1111.32,880.66 1110.95,879.954 1110.48,879.059 1109.93,878.019 1109.33,876.886 1108.71,875.717 "
+         id="polyline172" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g190"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1127.9,868.932 1151.33,845.502 "
+         id="polyline176" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1120.63,808.909 1093.48,827.914 "
+         id="polyline178" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1158.79,836.967 1384.96,647.191 "
+         id="polyline180" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1356.49,613.267 1130.33,803.042 "
+         id="polyline182" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1129.2,864.635 1133.66,847.295 "
+         id="polyline184" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1133.26,834.785 1132.2,833.042 1130.96,831.414 1129.57,829.915 1128.04,828.562 "
+         id="polyline186" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1128.4,866.519 1128.7,865.826 1128.96,865.228 1129.13,864.819 1129.2,864.635 "
+         id="polyline188" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g198"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1145.99,839.14 1145.76,838.649 1145.46,838.261 1145.05,838.031 1144.63,837.943 1144.47,837.947 1144.24,838.004 1143.54,838.255 1142.82,838.589 1142.16,839.024 1141.78,839.335 1141.31,839.741 1140.74,840.254 1140.09,840.855 1138.65,842.23 1137.15,843.681 1135.8,845.024 1135.23,845.597 1134.76,846.076 1134.4,846.462 1134.11,846.778 1133.66,847.295 "
+         id="polyline192" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1133.26,834.785 1134.81,834.242 1136.22,833.752 1136.83,833.545 1137.37,833.371 1137.8,833.237 1138.15,833.148 1138.83,833.101 1139.32,833.139 1139.96,833.21 1141.46,833.42 1142.87,833.658 1143.39,833.764 1143.72,833.851 1144.15,834.063 1144.47,834.242 1144.87,834.464 1145.72,834.964 1146.39,835.435 1146.9,835.901 1147.97,837.019 "
+         id="polyline194" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1094.26,827.712 1097.8,825.638 1099.65,824.603 1101.62,823.57 1103.73,822.539 1106.03,821.511 1108.52,820.491 1111.14,819.499 1113.78,818.561 1116.35,817.704 1118.76,816.952 1119.86,816.624 1120.89,816.332 1121.82,816.08 1122.65,815.87 1123.37,815.703 1124,815.573 1125.06,815.393 1125.96,815.271 "
+         id="polyline196" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g202"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1128.04,828.562 1126.85,827.793 1125.5,827.097 1124.72,826.8 1123.86,826.547 1121.95,826.175 1120.02,825.963 1119.12,825.909 1118.31,825.886 1116.95,825.915 1115.79,825.998 "
+         id="polyline200" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g208"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1145.99,839.14 1144.11,843.744 1141.99,848.238 1139.62,852.61 1137.01,856.846 1134.18,860.934 1131.13,864.861 1127.87,868.616 "
+         id="polyline204" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1128.39,813.693 1129.29,814.904 1129.99,816.156 1130.33,816.811 1130.48,817.221 1130.61,817.732 1130.7,818.374 1130.76,819.132 1130.79,820.773 1130.79,821.539 1130.77,822.194 1130.75,822.678 1130.74,822.937 1130.71,823.064 1130.6,823.343 1130.41,823.837 1130.14,824.485 1129.5,825.994 1129.17,826.73 1128.87,827.371 1128.61,827.856 1128.39,828.181 1128.04,828.562 "
+         id="polyline206" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g214"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1115.79,825.998 1097.94,827.383 "
+         id="polyline210" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1133.66,847.295 1134.36,843.151 1134.55,841.205 1134.55,839.41 1134.34,837.824 1134,836.514 1133.63,835.538 1133.26,834.785 "
+         id="polyline212" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g222"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1115.79,825.998 1116.4,825.632 1116.79,825.384 1117.28,825.058 1117.9,824.632 1118.65,824.11 1120.37,822.881 1122.17,821.573 1123.01,820.952 1123.76,820.388 1124.39,819.905 1124.87,819.527 1125.21,819.242 1125.46,819.001 1125.93,818.46 1126.44,817.805 1126.64,817.525 1126.77,817.308 1126.88,816.825 1126.9,816.34 1126.76,816.021 1126.43,815.592 1125.96,815.271 "
+         id="polyline216" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1151.33,845.502 1151.24,845.396 1150.98,845.08 1150.54,844.558 1149.93,843.835 1149.16,842.921 1148.24,841.824 1147.18,840.559 1145.99,839.14 "
+         id="polyline218" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1125.96,815.271 1124.61,813.661 1123.43,812.255 1122.44,811.075 1121.66,810.138 1121.09,809.459 1120.74,809.047 1120.63,808.909 "
+         id="polyline220" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g230"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1356.49,613.267 1356.6,613.39 1356.91,613.759 1357.42,614.369 1358.12,615.209 1359.01,616.269 1360.07,617.532 1361.29,618.981 1362.64,620.593 1364.11,622.346 1365.68,624.214 1367.32,626.17 1369.01,628.184 1370.72,630.229 1372.44,632.274 1374.13,634.288 1375.77,636.244 1377.34,638.112 1378.81,639.865 1380.16,641.477 1381.38,642.926 1382.44,644.189 1383.33,645.248 1384.03,646.089 1384.54,646.698 1384.85,647.068 1384.96,647.191 "
+         id="polyline224" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1153.18,843.237 1154.85,840.972 1156.73,838.875 1158.79,836.967 "
+         id="polyline226" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1130.33,803.042 1128.09,804.745 1125.7,806.228 1123.18,807.476 "
+         id="polyline228" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g240"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1123.18,807.476 1123.26,807.579 1123.52,807.888 1123.95,808.398 1124.54,809.104 1125.29,809.998 1126.19,811.07 1127.23,812.306 1128.39,813.693 "
+         id="polyline232" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1147.97,837.019 1149.29,838.593 1150.44,839.966 1151.41,841.12 1152.18,842.035 1152.73,842.7 1153.07,843.102 1153.18,843.237 "
+         id="polyline234" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1130.33,803.042 1130.43,803.166 1130.74,803.535 1131.25,804.144 1131.96,804.985 1132.85,806.045 1133.91,807.308 1135.12,808.756 1136.47,810.369 1137.95,812.122 1139.51,813.989 1141.15,815.945 1142.84,817.96 1144.56,820.004 1146.28,822.049 1147.97,824.064 1149.61,826.019 1151.17,827.887 1152.64,829.64 1154,831.253 1155.21,832.701 1156.27,833.964 1157.16,835.024 1157.87,835.864 1158.38,836.474 1158.69,836.843 1158.79,836.967 "
+         id="polyline236" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1147.97,837.019 1147.02,838.107 1145.99,839.14 "
+         id="polyline238" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g246"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1123.18,807.476 1121.87,808.129 1120.63,808.909 "
+         id="polyline242" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1151.33,845.502 1152.31,844.415 1153.18,843.237 "
+         id="polyline244" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g250"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1128.39,813.693 1127.16,814.438 1125.96,815.271 "
+         id="polyline248" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g256"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="833.612,1312.4 833.612,1297.64 "
+         id="polyline252" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="863.136,1312.4 981.231,1312.4 "
+         id="polyline254" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g260"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="981.231,1312.4 981.231,1297.64 "
+         id="polyline258" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g266"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1010.75,1297.64 1010.75,1312.4 "
+         id="polyline262" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="863.136,1297.64 981.231,1297.64 "
+         id="polyline264" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g270"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="863.136,1297.64 863.136,1312.4 "
+         id="polyline268" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="5"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g286"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1007.8,1297.64 1004.72,1297.48 1001.66,1296.99 998.679,1296.19 995.794,1295.08 993.041,1293.68 990.449,1292 988.047,1290.05 985.862,1287.87 983.917,1285.47 982.234,1282.88 980.831,1280.12 979.724,1277.24 978.924,1274.25 978.44,1271.2 978.279,1268.11 "
+         id="polyline272" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="866.088,1268.11 865.927,1271.2 865.443,1274.25 864.643,1277.24 863.536,1280.12 862.133,1282.88 860.45,1285.47 858.505,1287.87 856.32,1290.05 853.918,1292 851.326,1293.68 848.573,1295.08 845.688,1296.19 842.703,1296.99 839.651,1297.48 836.564,1297.64 "
+         id="polyline274" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="978.279,1268.11 978.114,1268.11 977.621,1268.11 976.803,1268.11 975.665,1268.11 974.212,1268.11 972.454,1268.11 970.401,1268.11 968.065,1268.11 965.46,1268.11 962.601,1268.11 959.505,1268.11 956.19,1268.11 952.675,1268.11 948.981,1268.11 945.13,1268.11 941.145,1268.11 937.048,1268.11 932.864,1268.11 928.617,1268.11 924.332,1268.11 920.035,1268.11 915.75,1268.11 911.503,1268.11 907.319,1268.11 903.222,1268.11 899.237,1268.11 895.386,1268.11 891.692,1268.11 888.177,1268.11 884.862,1268.11 881.766,1268.11 878.907,1268.11 876.302,1268.11 873.966,1268.11 871.913,1268.11 870.155,1268.11 868.703,1268.11 867.564,1268.11 866.746,1268.11 866.253,1268.11 866.088,1268.11 "
+         id="polyline276" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1010.75,1312.4 1010.59,1312.4 1010.11,1312.4 1009.31,1312.4 1008.2,1312.4 1006.8,1312.4 1005.12,1312.4 1003.17,1312.4 1000.99,1312.4 998.585,1312.4 995.993,1312.4 993.24,1312.4 990.355,1312.4 987.369,1312.4 984.317,1312.4 981.231,1312.4 "
+         id="polyline278" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="981.231,1297.64 984.317,1297.64 987.369,1297.64 990.355,1297.64 993.24,1297.64 995.993,1297.64 998.585,1297.64 1000.99,1297.64 1003.17,1297.64 1005.12,1297.64 1006.8,1297.64 1008.2,1297.64 1009.31,1297.64 1010.11,1297.64 1010.59,1297.64 1010.75,1297.64 "
+         id="polyline280" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="863.136,1312.4 860.05,1312.4 856.998,1312.4 854.013,1312.4 851.127,1312.4 848.374,1312.4 845.782,1312.4 843.381,1312.4 841.195,1312.4 839.251,1312.4 837.568,1312.4 836.165,1312.4 835.057,1312.4 834.257,1312.4 833.774,1312.4 833.612,1312.4 "
+         id="polyline282" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="833.612,1297.64 833.774,1297.64 834.257,1297.64 835.057,1297.64 836.165,1297.64 837.568,1297.64 839.251,1297.64 841.195,1297.64 843.381,1297.64 845.782,1297.64 848.374,1297.64 851.127,1297.64 854.013,1297.64 856.998,1297.64 860.05,1297.64 863.136,1297.64 "
+         id="polyline284" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g312" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g318" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g324" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g330" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g336" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g342" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g348" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g354" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g360" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g366" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g372" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g378" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g384" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g390" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g396" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g402" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g408" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g414" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g420" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g426" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g432" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g438" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g444" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g450" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g456" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g462" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g468" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g474" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g480" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g486" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g492" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g498" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g504" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g510" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g516" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g522" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g532" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g538" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g544" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g550" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g556" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g562" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g568" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g574" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g580" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g586" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g592" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g598" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g604" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g610" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g616" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g622" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g628" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g634" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g640" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g646" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g656" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g662" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g668" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g674" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g680" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g686" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g692" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g698" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g704" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g710" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g716" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g722" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g728" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g734" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g740" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g746" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g752" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g758" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g764" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g782" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g788" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g794" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g800" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g806" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g812" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g818" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g824" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g830" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g844" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g850" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g856" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g862" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g868" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g878" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g884" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g890" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g896" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g902" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g908" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g914" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g920" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g926" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g940" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g946" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g952" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g958" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g964" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g970" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g976" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g982" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g992" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g998" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1004" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1010" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1016" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1022" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1028" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1034" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1044" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1050" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1090" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1096" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1102" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1108" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1114" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1120" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1126" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1132" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1138" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1144" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1150" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1164" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1170" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1176" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1182" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1188" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1194" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1200" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1206" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1218" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1224" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1230" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1236" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1242" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1248" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1254" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1260" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1266" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1272" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1292" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1298" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1304" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1310" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1316" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1326" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1332" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1338" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1352" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1358" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1364" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1370" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1376" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1382" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1396" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1402" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1408" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1414" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1420" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1426" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1432" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1438" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1444" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1450" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1456" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1462" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1468" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1474" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1480" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1486" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1492" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1502" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1508" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1514" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1520" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1526" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1532" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1538" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1564" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1570" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1576" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1582" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1588" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1594" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1600" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1606" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1612" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1618" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1624" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1630" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1636" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1642" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1648" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1654" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1660" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1666" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1688" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1694" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1700" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1706" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1712" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1718" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1724" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1730" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1736" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1742" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1756" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1762" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1768" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1774" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1780" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1786" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1792" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1798" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1804" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1810" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1816" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1822" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1828" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1834" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1840" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1846" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1852" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1858" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1864" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1870" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1876" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1882" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1888" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1894" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1900" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1906" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1912" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1918" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1924" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1930" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1936" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1942" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1948" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1954" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g1994"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="922.184,1001.97 922.184,1061.23 "
+         id="polyline1956" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="922.184,1076 922.184,1090.76 "
+         id="polyline1958" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="922.184,1105.52 922.184,1164.78 "
+         id="polyline1960" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1099.33,857.959 1128.53,807.371 "
+         id="polyline1962" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1135.91,794.587 1143.3,781.802 "
+         id="polyline1964" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1150.68,769.018 1187.58,705.097 "
+         id="polyline1966" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1194.96,692.313 1202.34,679.529 "
+         id="polyline1968" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1209.72,666.745 1238.93,616.156 "
+         id="polyline1970" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1324.81,668.753 1274.27,711.168 "
+         id="polyline1972" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1262.96,720.657 1251.65,730.146 "
+         id="polyline1974" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1240.34,739.635 1183.8,787.078 "
+         id="polyline1976" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1172.49,796.567 1161.18,806.056 "
+         id="polyline1978" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1149.87,815.545 1099.33,857.959 "
+         id="polyline1980" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="994.344,1039.79 969.335,1083.11 "
+         id="polyline1982" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="961.954,1095.9 954.573,1108.68 "
+         id="polyline1984" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="947.192,1121.46 922.184,1164.78 "
+         id="polyline1986" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="998.034,1033.4 1039.56,961.473 "
+         id="polyline1988"
+         transform="matrix(1.5478664,0,0,1.5478664,-546.24138,-566.71296)" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="922.184,994.593 922.184,930.022 "
+         id="polyline1990" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g1996" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2002" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2008" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2010" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2016" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2022" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2028" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g2046"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1330.47,664.009 1355.69,642.849 "
+         id="polyline2040" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1242.62,609.764 1266.65,568.142 "
+         id="polyline2042" />
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1324.38,630.621 1318.06,624.54 1311.58,618.635 1304.95,612.909 1298.16,607.367 1291.22,602.014 1284.13,596.852 "
+         id="polyline2044" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2048" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g2052"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 1328,627.288 16.38,25.05 -23.62,-18.383 7.24,-6.667"
+         id="path2050" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2054" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g2058"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 1281.48,600.995 -22.21,-20.069 27.52,11.783 -5.31,8.286"
+         id="path2056" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2060" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2062" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2068" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2074" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2080" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g2092" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g2096"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 1323.86,592.364 1.56,-0.072 1.45,-0.216 1.36,-0.361 1.26,-0.505 1.16,-0.665 1.07,-0.813 0.96,-0.961 0.87,-1.109 h 0.33 l -0.12,0.933 -0.09,1.108 -0.05,1.285 -0.02,1.461 v 13.205 h 5.07 v -44.769 h -4.03 l -0.76,4.224 h -0.22 l -0.88,-1.121 -0.97,-0.97 -1.05,-0.818 -1.16,-0.667 -1.25,-0.53 -1.35,-0.378 -1.44,-0.227 -1.53,-0.076 -2.84,0.268 -2.51,0.802 -2.18,1.338 -1.85,1.872 -1.47,2.344 -1.06,2.752 -0.61,3.14 -0.21,3.562 0.21,3.561 0.61,3.14 1.03,2.724 1.45,2.316 1.8,1.851 2.14,1.33 2.5,0.782 2.82,0.26 m 0.99,-4.195 -1.94,-0.183 -1.7,-0.549 -1.42,-0.943 -1.17,-1.31 -0.91,-1.661 -0.66,-1.999 -0.38,-2.337 -0.13,-2.675 0.13,-2.703 0.38,-2.365 0.67,-2.062 0.93,-1.739 1.16,-1.359 1.4,-0.978 1.64,-0.591 1.88,-0.197 2.16,0.176 1.84,0.528 1.56,0.872 1.23,1.211 0.94,1.612 0.66,2.077 0.41,2.505 0.13,2.957 v 1.042 l -0.18,2.667 -0.44,2.26 -0.66,1.83 -0.92,1.436 -1.19,1.084 -1.51,0.774 -1.81,0.465 -2.1,0.155"
+         id="path2094" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2098" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g2102"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 1372.04,560.266 -0.22,-2.238 -0.63,-1.985 -1.05,-1.739 -1.48,-1.499 -1.85,-1.204 -2.18,-0.852 -2.51,-0.528 -2.84,-0.176 -3.62,0.289 -3.42,0.866 -3.1,1.344 -2.73,1.781 2.54,3.463 1.46,-0.908 1.37,-0.753 1.29,-0.598 1.2,-0.444 2.43,-0.57 2.64,-0.19 1.65,0.106 1.47,0.316 1.28,0.521 1.09,0.718 0.86,0.922 0.63,1.077 0.38,1.232 0.13,1.387 -0.18,1.732 -0.53,1.534 -0.84,1.337 -1.18,1.141 -1.51,0.908 -1.76,0.64 -2.02,0.38 -2.29,0.127 h -4.05 v 4.308 h 4 l 2.68,0.12 2.33,0.359 1.98,0.563 1.62,0.788 1.26,1.021 0.91,1.26 0.55,1.464 0.18,1.689 -0.17,1.922 -0.5,1.654 -0.81,1.394 -1.14,1.14 -1.46,0.887 -1.8,0.634 -2.11,0.38 -2.43,0.127 -2.83,-0.176 -2.94,-0.528 -2.89,-0.852 -2.71,-1.147 v 4.73 l 2.6,1.07 2.69,0.675 2.89,0.359 3.14,0.12 3.58,-0.197 3.15,-0.591 2.71,-0.993 2.27,-1.401 1.77,-1.766 1.27,-2.091 0.78,-2.45 0.26,-2.787 -0.15,-1.929 -0.47,-1.731 -0.76,-1.563 -1.07,-1.366 -1.37,-1.147 -1.7,-0.908 -1.98,-0.669 -2.3,-0.429 v -0.225 l 1.94,-0.528 1.7,-0.739 1.45,-0.951 1.22,-1.161 0.97,-1.352 0.69,-1.52 0.42,-1.717 0.15,-1.887"
+         id="path2100" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2104" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g2108"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 968.48,923.92 1.556,-0.072 1.457,-0.216 1.358,-0.361 1.26,-0.505 1.162,-0.665 1.062,-0.813 0.965,-0.961 0.866,-1.109 h 0.337 l -0.123,0.933 -0.088,1.109 -0.052,1.284 -0.018,1.461 v 13.205 h 5.068 v -44.768 h -4.026 l -0.761,4.223 h -0.225 l -0.876,-1.121 -0.968,-0.969 -1.059,-0.819 -1.151,-0.667 -1.257,-0.529 -1.348,-0.379 -1.439,-0.227 -1.531,-0.075 -2.844,0.267 -2.506,0.803 -2.175,1.337 -1.851,1.872 -1.478,2.344 -1.056,2.753 -0.613,3.139 -0.204,3.562 0.204,3.562 0.613,3.139 1.027,2.724 1.45,2.316 1.802,1.851 2.14,1.331 2.499,0.781 2.823,0.26 m 0.985,-4.195 -1.935,-0.183 -1.697,-0.549 -1.422,-0.943 -1.168,-1.309 -0.915,-1.662 -0.662,-1.999 -0.38,-2.337 -0.127,-2.675 0.127,-2.703 0.38,-2.365 0.669,-2.062 0.936,-1.739 1.161,-1.358 1.401,-0.979 1.64,-0.591 1.88,-0.197 2.154,0.176 1.844,0.528 1.556,0.873 1.231,1.21 0.937,1.612 0.668,2.077 0.401,2.506 0.134,2.956 v 1.042 l -0.183,2.668 -0.436,2.259 -0.662,1.83 -0.915,1.436 -1.197,1.084 -1.506,0.775 -1.809,0.464 -2.105,0.155"
+         id="path2106" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2110" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(1.9183095,0,0,1.9183095,-929.15357,-747.69747)"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="g2114"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 1018.2,923.357 v -4.617 h -20.804 v -0.226 l 8.584,-8.475 2.16,-2.145 1.82,-1.902 1.49,-1.66 1.15,-1.416 1.73,-2.591 1.23,-2.534 0.74,-2.576 0.24,-2.661 -0.21,-2.4 -0.63,-2.133 -1.06,-1.865 -1.48,-1.598 -1.83,-1.281 -2.14,-0.915 -2.4,-0.57 -2.72,-0.19 -3.37,0.302 -3.219,0.908 -3.083,1.514 -2.943,2.118 2.703,3.407 1.385,-1.026 1.311,-0.853 1.237,-0.681 1.164,-0.509 2.345,-0.633 2.47,-0.211 1.6,0.119 1.41,0.359 1.24,0.563 1.07,0.789 0.84,1.013 0.6,1.183 0.38,1.358 0.12,1.542 -0.19,2.203 -0.59,2.049 -0.97,2.006 -1.37,2.076 -1,1.232 -1.4,1.584 -1.82,1.936 -2.23,2.287 -10.783,10.897 v 4.223 h 27.223"
+         id="path2112" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2116" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(1,0,0,1,0,0)"
+       font-family="Arial"
+       font-size="12"
+       font-weight="400"
+       font-style="normal"
+       id="g2118" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1671.4794,485.48589 c 23.5892,-19.84173 47.1782,-39.68319 70.7668,-59.52441"
+       id="path3297"
+       inkscape:path-effect="#path-effect3299"
+       inkscape:original-d="m 1671.4794,485.48589 c 23.5921,-19.83834 47.181,-39.67981 70.7668,-59.52441"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.41509;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:35.3207, 8.83018, 4.41509, 8.83018;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 1832.2435,304.22804 C 1426.953,787.12087 1021.6628,1270.0133 616.37288,1752.9054"
+       id="path3301"
+       inkscape:path-effect="#path-effect3303"
+       inkscape:original-d="M 1832.2435,304.22804 C 1426.9578,787.12492 1021.6676,1270.0174 616.37288,1752.9054"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:125px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#000000;stroke-width:3.12501"
+       x="840.81531"
+       y="1038.7749"
+       id="text4753"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan4751"
+         style="fill:#000000;stroke-width:3.12501"
+         x="840.81531"
+         y="1038.7749">-</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:3.12501"
+         x="840.81531"
+         y="1195.0248"
+         id="tspan4755" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:125px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#000000;stroke:#000000;stroke-width:3.12501"
+       x="1198.428"
+       y="1010.0381"
+       id="text16352"><tspan
+         sodipodi:role="line"
+         id="tspan16350"
+         style="fill:#000000;stroke:#000000;stroke-width:3.12501"
+         x="1198.428"
+         y="1010.0381" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:#000000;stroke-width:3.12501"
+         x="1198.428"
+         y="1166.2881"
+         id="tspan16354" /></text>
+    <image
+       width="115.84859"
+       height="115.84859"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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
+"
+       id="image27873"
+       x="1167.0989"
+       y="1061.72"
+       inkscape:export-filename="C:\Users\alvar\Desktop\Alvariko\Proxectins\TFG\Dibujos\Vistas Robot\Robot 3\VistaQ2Q3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
